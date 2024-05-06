@@ -1,7 +1,7 @@
-package GestionLibro;
+package S1.GestionLibro;
 
-import GestionLibro.model.Genero;
-import GestionLibro.model.Libro;
+import S1.GestionLibro.model.Genero;
+import S1.GestionLibro.model.Libro;
 
 import java.time.LocalDate;
 import java.util.*;

@@ -1,4 +1,4 @@
-package GestionLibro.model;
+package S1.GestionLibro.model;
 
 import java.time.LocalDate;
 
