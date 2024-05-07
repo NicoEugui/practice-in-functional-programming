@@ -14,6 +14,4 @@ public class Ejercicio10 {
      * ● Consideraciones: El arreglo de entrada está ordenado.
      * Ajusta los índices start y end en cada llamada recursiva para dividir el espacio de búsqueda.
      */
-
-
 }
